@@ -1,2 +1,2 @@
 logger.info('foo');
-console.log('wow');
+logger.info('wow');
