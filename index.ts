@@ -1,2 +1,3 @@
 logger.info('foo');
-logger.info('wow');
+console.log('wow');
+const another = 3;
