@@ -1,1 +1,1 @@
-logger.info('foo');
+console.log('foo');
