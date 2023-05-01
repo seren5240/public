@@ -1,10 +1,4 @@
-import { createLogger, format, transports } from 'winston';
-
-const logger = createLogger({
-  level: 'info',
-  format: format.combine(format.colorize(), format.simple()),
-  transports: [new transports.Console()]
-});
+import * as logger from 'logger';
 logger.info('foo');
 logger.info('wow');
 const another = 3;
