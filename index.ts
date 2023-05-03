@@ -1,4 +1,4 @@
-logger.info('foo');
-logger.info('wow');
+console.log('foo');
+console.log('wow');
 const another = 4;
-console.log("many things");
+console.log('many things');
