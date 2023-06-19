@@ -1,4 +1,5 @@
 import { unused } from "./another";
+import MyApp from "./app";
 
 logger.info("foo");
 logger.info("wow");
