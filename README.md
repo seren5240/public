@@ -1,2 +1,2 @@
 # public
-A public repo
+A public test repo
