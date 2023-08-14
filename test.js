@@ -1,1 +1,1 @@
-console.log('does this scan');
+logger.log("does this scan");
