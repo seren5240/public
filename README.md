@@ -1,2 +1,2 @@
 # public
-A public test repo.
+A public test repo!
