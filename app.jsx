@@ -4,7 +4,7 @@ import { DEBUG } from "../constants";
 
 function MyApp({ Component, pageProps }) {
   if (DEBUG) {
-    console.log("debug");
+    logger.log("debug");
   }
   return <Component {...pageProps} />;
 }
